@@ -7,7 +7,7 @@ import argparse
 import csv
 import unidecode
 
-DEVELOPER_KEY = "AIzaSyBMGhjNMSne3kbSImN1rO6ViwaIYEU9GKE"
+DEVELOPER_KEY = "<your api key>"
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 

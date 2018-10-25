@@ -1,0 +1,1 @@
+results_olympics <- read.table("C:/Users/Kaustubh/Desktop/Coursera-sin/4/results_olympics.xls")
